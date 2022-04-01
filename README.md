@@ -2,7 +2,7 @@
 A bot to extract a random person from the server
 
 # Dependencies
-This bot depends on [discord-bot](https://www.npmjs.com/package/discord-bot)
+This bot depends on [discord.js](https://github.com/discordjs/discord.js)
 
 # Commands
 ### Note: Parameters contained within square brackets (i.e. "\[role\]") are optional
